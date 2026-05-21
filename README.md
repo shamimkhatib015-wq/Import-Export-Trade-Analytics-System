@@ -14,5 +14,5 @@ Features:
 - MySQL Integration
 - Power BI Analytics
 
-- Developed By
+ Developed By
 - Shamim Fatima Rayeesahmed Khatib
