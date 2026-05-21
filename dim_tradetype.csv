@@ -1,0 +1,3 @@
+Trade_Type,TradeType_ID,Description,Created_At
+Export,1,Goods exported from country,2023-01-01 09:00:00
+Import,2,Goods imported into country,2023-01-01 09:00:20
