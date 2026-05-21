@@ -17,6 +17,10 @@ Features:
  Developed By:
 - Shamim Fatima Rayeesahmed Khatib
 
+  # Import Export Trade Analytics System
+
+A modern analytics system developed using Python Flask, MySQL and Power BI to analyze India’s import and export trade data.
+
 ## Project Screenshots
 
 ### Home Page
