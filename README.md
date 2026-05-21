@@ -14,5 +14,16 @@ Features:
 - MySQL Integration
 - Power BI Analytics
 
- Developed By
+ Developed By:
 - Shamim Fatima Rayeesahmed Khatib
+
+## Project Screenshots
+
+### Home Page
+![Home Page](homepage.png)
+
+### Login Page
+![Login Page](loginpage.png)
+
+### Dashboard
+![Dashboard](dashboard.png)
